@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1442025475 source:/home/ricky/devel/SFML/main.cpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<iostream>
+	<cmath>
+	"TileLoader.h"
+	"StaticTiledMap.h"
+
+1439815835 source:/home/ricky/devel/SFML/StaticTiledMap.cpp
+	"StaticTiledMap.h"
+	"TileLoader.h"
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Vector2.hpp>
+
+1439815725 /home/ricky/devel/SFML/StaticTiledMap.h
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<vector>
+
+1439814577 /home/ricky/devel/SFML/TileLoader.h
+	<SFML/Graphics/VertexArray.hpp>
+	<string>
+
