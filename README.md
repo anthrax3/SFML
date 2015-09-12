@@ -6,6 +6,7 @@ Requirements to compile:
 * A Unix machine (Mac or Linux)
 * GNU make  
 Compile it by typing "make" in the directory.  
+
 If it doesnt compile, file it in issues and i'll try to fix it.  
 
 Controls:  
