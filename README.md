@@ -4,9 +4,9 @@ Requirements to compile:
 * Source code
 * SFML Library (in /usr/bin/include, or something else for other OS's)
 * A Unix machine (Mac or Linux)
-* GNU make  
-Compile it by typing "make" in the directory.  
+* GNU make
 
+Compile it by typing "make" in the directory.  
 If it doesnt compile, file it in issues and i'll try to fix it.  
 
 Controls:  
