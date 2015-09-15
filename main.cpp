@@ -7,6 +7,7 @@ using namespace sf;
 #include "TileLoader.h"
 #include "StaticTiledMap.h"
 using namespace std;
+//I'm using the new atom editor and i'm testing git integration!
 
 #define FPS 60
 #define WINDOW_WIDTH 800
